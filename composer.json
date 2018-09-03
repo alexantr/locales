@@ -1,0 +1,5 @@
+{
+    "require": {
+        "umpirsky/locale-list": "^1.0"
+    }
+}
