@@ -1,0 +1,2 @@
+# locales
+Locales list
